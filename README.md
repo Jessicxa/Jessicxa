@@ -1,4 +1,4 @@
 ▪ 👨🏻‍💻 Jessica Rocha
 
-- 📚 Estudante de desenvolvimento web
+▪ 📚 Estudante de desenvolvimento web
 
