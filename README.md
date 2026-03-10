@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="Meu-Gif" src="https://cdn.discordapp.com/attachments/867838899269926935/1481022245945082017/New_Project.gif">
+  <img align="right" alt="Meu-Gif" src="https://cdn.discordapp.com/attachments/867838899269926935/1481022245945082017/New_Project.gif" width="200">
 </div>
 
           
