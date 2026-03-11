@@ -1,7 +1,5 @@
 ## Olá!! Eu sou a Jessica Rocha
-
 ▪ 📚 Estudante de desenvolvimento web
-
 ##
 
 <div style="display: inline_block"><br>
